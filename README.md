@@ -4,7 +4,7 @@
 
 Enhance your data analysis and machine learning proficiency with our "Industrial Copper Modeling" project. Dealing with complex sales and pricing data can be challenging in the copper industry. Our solution employs advanced machine learning techniques to address these challenges, offering regression models for precise pricing predictions and lead classification for better customer targeting. You'll also gain experience in data preprocessing, feature engineering, and web application development using Streamlit, equipping you to solve real-world problems in manufacturing.
 
-![Intro GUI](https://github.com/vishwasbasotra/BizCardX-Extracting-Business-Card-Data-with-OCR/blob/main/demo.png](https://github.com/vishwasbasotra/Industrial-Copper-Modeling/blob/main/demo.png))
+![Intro GUI](https://github.com/vishwasbasotra/Industrial-Copper-Modeling/blob/main/demo.png))
 
 **Table of Contents**
 
